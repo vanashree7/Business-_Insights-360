@@ -143,17 +143,19 @@ Fact table : It will have the data about the transactions
 - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
 ## Data Model
+https://github.com/vanashree7/Business-_Insights-360/blob/main/Project_Screenshot2_updated.png
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
+
 ### Dashboard designing
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 ## Home view
-
+https://github.com/vanashree7/Business-_Insights-360/blob/main/Screenshot%202023-10-26%20074805.png
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
 - Info
